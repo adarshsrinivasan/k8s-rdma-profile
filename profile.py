@@ -328,7 +328,7 @@ To change the Ansible and playbook configuration, you can start reading Kubespra
 # Customizable area for forks.
 #
 tourDescription = \
-  "This profile creates a Kubernetes cluster with [Kubespray]().  When you click the Instantiate button, you'll be presented with a list of parameters that you can change to control what your Kubernetes cluster will look like; read the parameter documentation on that page (or in the Instructions)."
+  "This profile is a copy of https://www.cloudlab.us/show-profile.php?project=emulab-ops&profile=k8s, except it has added support for RDMA communication. This profile creates a Kubernetes cluster with [Kubespray]().  When you click the Instantiate button, you'll be presented with a list of parameters that you can change to control what your Kubernetes cluster will look like; read the parameter documentation on that page (or in the Instructions)."
 
 tourInstructions = kubeInstructions
 
